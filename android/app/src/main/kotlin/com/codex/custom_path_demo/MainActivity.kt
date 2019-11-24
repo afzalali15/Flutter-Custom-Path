@@ -1,4 +1,4 @@
-package com.codex.custom_path_demo
+package com.codex.mcu_app
 
 import android.os.Bundle
 

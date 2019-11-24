@@ -1,4 +1,4 @@
-# custom_path_demo
+# MCU App
 
 A new Flutter application.
 
